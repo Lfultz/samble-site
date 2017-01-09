@@ -1,0 +1,28 @@
+body{
+    background-color: #efefef;
+}
+
+
+
+h1 {
+    color: darkgrey;
+    text-align: center;
+}   
+     
+p {color: darkgrey;}
+
+a {color: darkgrey;}
+
+
+.leftbar{
+    float: left;
+}
+
+.contaner {
+    width: 75%;
+    margin: auto;
+    background-color: white;
+    padding: 15px;
+    border-radius: 15px;
+    border: 1px solid #C5D9DB;
+} 
